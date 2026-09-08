@@ -6,7 +6,7 @@ require (
 	github.com/gospider007/gson v0.0.0-20260907015427-4782363d52be
 	github.com/gospider007/netx v0.0.0-20260908005434-79b9d1f116d8
 	github.com/gospider007/re v0.0.0-20260824054539-32823144d328
-	github.com/gospider007/requests v0.0.0-20260907020041-c16b937f84d9
+	github.com/gospider007/requests v0.0.0-20260908005508-9117a2c28f42
 	github.com/gospider007/tools v0.0.0-20260907003557-2e499500cd4e
 	github.com/gospider007/websocket v0.0.0-20260907015504-babb5a5c41dc
 )
