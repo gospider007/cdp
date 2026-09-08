@@ -4,7 +4,7 @@ go 1.27.0
 
 require (
 	github.com/gospider007/gson v0.0.0-20260907015427-4782363d52be
-	github.com/gospider007/netx v0.0.0-20260902033645-5ee87e90990b
+	github.com/gospider007/netx v0.0.0-20260908005434-79b9d1f116d8
 	github.com/gospider007/re v0.0.0-20260824054539-32823144d328
 	github.com/gospider007/requests v0.0.0-20260907020041-c16b937f84d9
 	github.com/gospider007/tools v0.0.0-20260907003557-2e499500cd4e
