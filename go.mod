@@ -14,7 +14,7 @@ require (
 require (
 	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/PuerkitoBio/goquery v1.13.0 // indirect
-	github.com/andybalholm/brotli v1.2.3 // indirect
+	github.com/andybalholm/brotli v1.2.4 // indirect
 	github.com/andybalholm/cascadia v1.3.5 // indirect
 	github.com/caddyserver/certmagic v0.25.4 // indirect
 	github.com/caddyserver/zerossl v0.1.5 // indirect
@@ -30,7 +30,7 @@ require (
 	github.com/gospider007/bar v0.0.0-20260907015442-6d4252a2a33d // indirect
 	github.com/gospider007/blog v0.0.0-20260907015415-59e2a9022fa5 // indirect
 	github.com/gospider007/bs4 v0.0.0-20260909053632-3fc102e11d7b // indirect
-	github.com/gospider007/conf v0.0.0-20260909053626-246dbaa4c9f0 // indirect
+	github.com/gospider007/conf v0.0.0-20260911054705-17c430690bdb // indirect
 	github.com/gospider007/gtls v0.0.0-20260909053653-7c29f3d27fde // indirect
 	github.com/gospider007/http1 v0.0.0-20260909053632-b299a4fbe460 // indirect
 	github.com/gospider007/http2 v0.0.0-20260909053653-eb6382156a9c // indirect
@@ -58,7 +58,7 @@ require (
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tidwall/sjson v1.2.5 // indirect
 	github.com/zeebo/blake3 v0.2.4 // indirect
-	go.mongodb.org/mongo-driver/v2 v2.9.0 // indirect
+	go.mongodb.org/mongo-driver/v2 v2.9.1 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.28.0 // indirect
