@@ -9,15 +9,17 @@ import (
 
 // 设置userAgent
 func (obj *WebSock) EmulationSetUserAgentOverride(preCtx context.Context, userAgent string, acceptLanguage string, platform string, userAgentData UserAgentData) (RecvData, error) {
+	// log.Print(userAgentData.FullVersionList)
+	// log.Print(userAgentData.UaFullVersion)
 	params := map[string]any{
 		"userAgentMetadata": userAgentData,
 		// "userAgentMetadata": UserAgentData{
 		// 	Brands:          userAgentData.Brands,
 		// 	FullVersionList: userAgentData.FullVersionList,
+		// 	UaFullVersion:   userAgentData.UaFullVersion,
 		// 	Platform:        userAgentData.Platform,
 		// 	PlatformVersion: userAgentData.PlatformVersion,
 		// 	Architecture:    userAgentData.Architecture,
-		// 	UaFullVersion:   userAgentData.UaFullVersion,
 		// 	Model:           userAgentData.Model,
 		// 	Mobile:          userAgentData.Mobile,
 		// 	Bitness:         userAgentData.Bitness,
